@@ -1,21 +1,3 @@
-(* Content-type: application/vnd.wolfram.mathematica *)
-
-(*** Wolfram Notebook File ***)
-(* http://www.wolfram.com/nb *)
-
-(* CreatedBy='Mathematica 11.2' *)
-
-(*CacheID: 234*)
-(* Internal cache information:
-NotebookFileLineBreakTest
-NotebookFileLineBreakTest
-NotebookDataPosition[       158,          7]
-NotebookDataLength[      9805,        264]
-NotebookOptionsPosition[      7999,        231]
-NotebookOutlinePosition[      8395,        247]
-CellTagsIndexPosition[      8352,        244]
-WindowFrame->Normal*)
-
 (* Beginning of Notebook Content *)
 Notebook[{
 Cell[BoxData[
